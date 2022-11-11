@@ -118,8 +118,8 @@ venv.bak/
 
 # homogenus/trained_models/tf/checkpoint
 
-*.data-00000-of-00001
+# *.data-00000-of-00001
 
-*.index
+# *.index
 
-*.meta
+# *.meta
