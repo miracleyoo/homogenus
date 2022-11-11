@@ -116,7 +116,7 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-homogenus/trained_models/tf/checkpoint
+# homogenus/trained_models/tf/checkpoint
 
 *.data-00000-of-00001
 
